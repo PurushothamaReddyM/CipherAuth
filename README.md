@@ -198,12 +198,20 @@ streamlit run project.py
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## M Purushothama Reddy
 
-- B.Tech Computer Science Engineering Student
-- Cybersecurity & Full Stack Development Enthusiast
-- Passionate about Secure Authentication Systems and Applied Cryptography
+<p align="left">
+
+<a href="mailto:machupalli.purushoth2023@vitstudent.ac.in" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+</a>
+
+<a href="https://github.com/PurushothamaReddyM" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+
+</p>
 
 ---
