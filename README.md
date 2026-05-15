@@ -16,7 +16,7 @@ Secure Multi-Factor Authentication System using TOTP, AES-256, SHA-512, and Biom
 8. [🔐 Security Mechanisms](#-security-mechanisms)
 9. [🚀 Future Improvements](#-future-improvements)
 10. [👨‍💻 Author](#-author)
-11. [📄 License](#-license)
+
 
 ---
 
@@ -207,7 +207,3 @@ streamlit run project.py
 - Passionate about Secure Authentication Systems and Applied Cryptography
 
 ---
-
-# 📄 License
-
-This project is developed for educational and academic purposes.
