@@ -15,7 +15,7 @@ Secure Multi-Factor Authentication System using TOTP, AES-256, SHA-512, and Biom
 7. [⚙️ Installation & Setup](#️-installation--setup)
 8. [🔐 Security Mechanisms](#-security-mechanisms)
 9. [🚀 Future Improvements](#-future-improvements)
-10. [👨‍💻 Author](#-author)
+10. [👨‍💻 Author](#author)
 
 
 ---
